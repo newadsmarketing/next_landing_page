@@ -48,7 +48,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-https://github.com/GabrielSS187/Landing-Page-Next.git
+git clone https://github.com/GabrielSS187/Landing-Page-Next.git
 
 # entrar na pasta do projeto front end web
 cd Landing-Page-Next
