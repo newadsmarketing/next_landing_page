@@ -21,12 +21,12 @@ const Home: NextPage = () => {
 <meta name="title" content="치트마켓 - 배그핵 서든핵 옵치핵 최저가보장" />
 <meta name="description" content="국내 최저가 배그핵 서든핵 옵치핵 등 다양한 제품 최대보유중 정지없는 랭커용 방송용 슬롯제 최대할인 이벤트 24시간 고객센터 운영중" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://https://cheatmarket.netlify.com" />
+<meta property="og:url" content="" />
 <meta property="og:title" content="치트마켓 - 배그핵 서든핵 옵치핵 최저가보장" />
 <meta property="og:description" content="국내 최저가 배그핵 서든핵 옵치핵 등 다양한 제품 최대보유중 정지없는 랭커용 방송용 슬롯제 최대할인 이벤트 24시간 고객센터 운영중" />
 <meta property="og:image" content="https://cdn.discordapp.com/attachments/1083483759447396514/1083484284179976272/vtp.jpeg" />
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://https://cheatmarket.netlify.com" />
+<meta property="twitter:url" content="https://" />
 <meta property="twitter:title" content="치트마켓 - 배그핵 서든핵 옵치핵 최저가보장" />
 <meta property="twitter:description" content="국내 최저가 배그핵 서든핵 옵치핵 등 다양한 제품 최대보유중 정지없는 랭커용 방송용 슬롯제 최대할인 이벤트 24시간 고객센터 운영중" />
 <meta property="twitter:image" content="https://cdn.discordapp.com/attachments/1083483759447396514/1083484284179976272/vtp.jpeg" />
